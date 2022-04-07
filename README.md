@@ -1,37 +1,30 @@
 # Welcome to Dani's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Daniemarie/Daniemarie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Anime
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime (a term derived from the English word animation) describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan. Animation produced outside of Japan with similar style to Japanese animation is referred to as anime-influenced animation.
 
-### Markdown
+Genres are different categories of works, based on the subject matter and how it is presented. Just like novels and drama have different genres, anime is no different. Each genre has its own characteristics that make it unique. Some examples of genres in anime are action, comedy, slice of life, drama/tragedy, psychological, history, mecha/military, supernatural/magic, romance and isekai.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Some of the popular anime
+  - One Piece
+  - Naruto
+  - Fullmetal Alchemist: Brotherhood
+  - One Punch Man
+  - Boku no Hero Academia
+  - Sword Art Online
+  - Shingeki no Kyojin
+  - Kimetsu no Yaiba
+  - Kimi no Nawa
+  - Shigatsu wa Kimi no Uso
+  - Horimiya
+  - Ouran High School Host Club
+  - Bungo Stray Dogs
+  - Haikyuu
+  - Kuroko no Basket
+  - Inuyasha
+  - Tsurune: Kazemai Koukou Kyuudoubu
+  - Prince of Stride
+  - Free!
+  - Prince of Tennis
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daniemarie/Daniemarie.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
