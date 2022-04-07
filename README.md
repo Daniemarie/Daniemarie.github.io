@@ -1,6 +1,6 @@
-# Recommendations from Dani 💗:wink:
+# Recommendations from Dani 💗😉
 
-Hello! I am Danielle Marie and this website is all about my recommendations to you in Anime, Kpop and Manhwa/Webtoon. I hope you like it!
+Hello! I am Danielle Marie and this website is all about my recommendations to you in Anime, Kpop and Manhwa/Webtoon. I hope you like it! 🤭👌
 
 
 ![Anime](https://resize.cdn.otakumode.com/full/u/f89ac49447f9453fa8686a42e027c19f.jpg)
@@ -114,4 +114,4 @@ Hello! I am Danielle Marie and this website is all about my recommendations to y
   - Mercenary Enrollment
 
 
-### Thank you for visiting my website!:smile::heart::hand:
+### Thank you for visiting my website! 😄💕🙇‍♀️
